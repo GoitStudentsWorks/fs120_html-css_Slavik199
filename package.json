@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/s120_html-css_Slavik199/",
+    "build": "vite build --base=/fs120_html-css_Slavik199/",
     "preview": "vite preview"
   },
   "devDependencies": {
